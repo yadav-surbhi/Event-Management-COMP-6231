@@ -15,3 +15,11 @@
     <p>
     Sequencer acts as a middleware between front-end and replica managers of all the replicas and communicates via UDP protocol. It’s primary job is to generate sequence number based on a chronological order and assign it  to client’s request.The sequencer then multicast those requests to all RMs. It also forwards responses from RMs back to FE.</br>
     </p>
+    
+    This project was made by:
+<ol>
+  <li>Surbhi Yadav</li>
+  <li>Apoorva Sharma</li>
+  <li>Sandeep Chowdary</li>
+  <li>Van T. Duong</li>
+</ol>
